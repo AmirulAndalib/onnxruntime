@@ -1,9 +1,9 @@
 onnxscript>=0.2.3
 optimum>=1.14.1
 optree
-transformers==4.52.1
-torch>=2.7.0
-onnx==1.22.0
+transformers==5.10.1
+torch>=2.14.1
+onnx==1.23.2
 datasets>=2.8.0
-protobuf==6.33.6
+protobuf==7.36.2
 psutil
